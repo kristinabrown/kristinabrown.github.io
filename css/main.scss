@@ -30,6 +30,13 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+.about-image {
+  max-width: 30%;
+  float: left;
+  margin-right: 20px;
+}
+
+
 
 
 // Using media queries with like this:
